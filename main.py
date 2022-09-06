@@ -7,10 +7,10 @@
 # (this would be good to place at the top of the file)
 # Set up a Dictionary to store each randomly selected option.
 
-destinations = ["River", "Beach", "Amuesment Park", "Park"]
-restaurants = ["Yokozuna", "BurnCo BBQ", "The Whole Bowl", "Screen Door"]
-mode_of_transportation = ["Bike", "Car", "Skate", "Bus", "Train"]
-entertainment = ["Movie", "Concert", "Picnic", "Arcade"]
+destinations = ["River", "Beach", "Amuesment Park", "Park", "Skate Park", "Mountain"]
+restaurants = ["Yokozuna", "BurnCo BBQ", "The Whole Bowl", "Screen Door", "Fried Egg I'm in Love", "Harlow"]
+mode_of_transportation = ["Bike", "Car", "Skate", "Bus", "Train", "Walk"]
+entertainment = ["Movie", "Concert", "Picnic", "Arcade", "Museum", "Art Crawl", "Berry Picking"]
 
 final_day_trip_selections = { 
    "destination" : destinations,
