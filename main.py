@@ -136,7 +136,7 @@ def random_entertainment_generator() :
 
 
 def change_question() :
-    change_prompt = (input("What part of your Day Trip would you like to change? (Destination, Restaurant, Mode of Transportation, Entertainment: "))
+    change_prompt = (input("What part of your Day Trip would you like to change? (Destination, Restaurant, Mode of Transportation, Entertainment) : "))
     seleciton_changed = False
     while seleciton_changed == False :
         if change_prompt == "Destination" :
